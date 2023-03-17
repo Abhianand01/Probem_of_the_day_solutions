@@ -1,9 +1,10 @@
-package LeetCode;
+package Geeks_For_Geeks;
 
 public class Sample {
     public static void main(String[] args) {
-        
+
         System.out.println("Hello World");
     }
+
     
 }
